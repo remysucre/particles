@@ -1,0 +1,19 @@
+{
+	"format": "particle",
+	"title": "Orbit",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "A simple webring for the Constellation. Send a PR to remy.wang/orbit to list your site!",
+			"style": {
+				"margin-bottom": 30
+			}
+		},
+		{
+			"type": "button",
+			"label": "Room #8",
+			"action": "http://remy.wang/"
+		}
+	]
+}
+
