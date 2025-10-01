@@ -4,15 +4,34 @@
 	"content": [
 		{
 			"type": "paragraph",
-			"text": "A simple webring for the Constellation. Send a PR to remy.wang/orbit to list your site!",
+			"text": "An experiment on antisocial media.\nSend a PR to remy.wang/particles to make a post, and he will publish it if it makes him happy!",
 			"style": {
 				"margin-bottom": 30
 			}
 		},
 		{
-			"type": "button",
-			"label": "Room #8",
-			"action": "http://remy.wang/"
+			"type": "separator"
+		},
+		{
+			"type": "paragraph",
+			"text": "_2025 09 30_",
+			"style": {
+				"margin-bottom": 30
+			}
+		},
+		{
+			"type": "blockquote",
+			"text": "Just discovered BRUIT<=, haven't felt like this listening to a band in a very long time. Check out their KEXP performance and their music on bandcamp! - Remy",
+			"style": {
+				"margin-bottom": 30
+			}
+		},
+		{
+			"type": "blockquote",
+			"text": "They have toots for mastodon, we have ... *particles* for the particle web! I call dibs to the first ever particle in the universe :) - Remy",
+			"style": {
+				"margin-bottom": 30
+			}
 		}
 	]
 }
